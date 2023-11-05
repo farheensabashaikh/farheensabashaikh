@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheensabashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="farheensabashaikh" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 📫 How to reach me **farheensabashaikh06@gmail.com**
 
